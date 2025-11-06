@@ -27,12 +27,12 @@ const SignUp: React.FC = () => {
         <form className="flex flex-col gap-5">
           <input
             type="text"
-            placeholder="Enter Last Name"
+            placeholder="Enter your First Name"
             className="w-full bg-[white] border border-gray-700 rounded-full px-5 py-3 focus:outline-none focus:ring-2 focus:ring-[#b4ff00] transition"
           />
           <input
             type="text"
-            placeholder="Enter First Name"
+            placeholder="Enter your Last Name"
             className="w-full bg-[white] border border-gray-700 rounded-full px-5 py-3 focus:outline-none focus:ring-2 focus:ring-[#b4ff00] transition"
           />
           <input
