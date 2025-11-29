@@ -28,12 +28,6 @@ const NavBar: React.FC = () => {
         <a href="/about" className="font-open hover:text-gray-300">
           About Us
         </a>
-        <a href="/#" className="font-open hover:text-gray-300">
-          Top Packeges
-        </a>
-        <a href="/#" className="font-open hover:text-gray-300">
-          Contact Us
-        </a>
       </div>
 
       <div className="hidden md:flex items-center gap-3">
@@ -62,12 +56,6 @@ const NavBar: React.FC = () => {
           </a>
           <a href="/about" className="font-open hover:text-gray-300">
             About Us
-          </a>
-          <a href="/#" className="font-open hover:text-gray-300">
-            Top Packeges
-          </a>
-          <a href="/#" className="font-open hover:text-gray-300">
-            Contact Us
           </a>
           <button
             className="font-lexend text-sm hover:text-gray-300"
